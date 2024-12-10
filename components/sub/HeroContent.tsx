@@ -52,7 +52,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
           target="_blank"
-          href="https://drive.google.com/file/d/12YdLC-nZJgXHWAKHkqUo8HXxiEKSzXqP/view?usp=sharing" 
+          href="https://drive.google.com/file/d/1a4esynslne1GI01J-a8us7Q5aVcrL3_U/view" 
           download="YourResumeFileName.pdf" 
         >
           Veiw Resume!
